@@ -17,13 +17,6 @@ This Sales Analytics Dashboard is an interactive business intelligence report bu
 
 ##  Dashboard Sections
 
-1.  Count of Customer Name by Segment
-A bar chart breaking down customers into three segments:
-
-- Consumer — 140 customers (largest segment)
-- Corporate — 99 customers
-- Home Office — 48 customers
-
 ## 1.  Count of Customer Name by Segment
 A bar chart breaking down customers into three segments:
 - **Consumer** — 140 customers (largest segment)
