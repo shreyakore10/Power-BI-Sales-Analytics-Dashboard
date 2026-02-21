@@ -2,15 +2,12 @@
 
 ## 📌 Overview
 
-This **Sales Analytics Dashboard** is an interactive business intelligence report built to provide a comprehensive view of sales performance across categories, regions, customer segments, and payment modes. It enables data-driven decision-making by visualizing key metrics in a clean and intuitive layout.
-
+This Sales Analytics Dashboard is an interactive business intelligence report built to provide a comprehensive view of sales performance across categories, regions, customer segments, and payment modes. It enables data-driven decision-making by visualizing key metrics in a clean and intuitive layout.
 
 ![Dashboard Preview](sales-dashboard.png)
 
 
 ##  Key Metrics
-
-| Metric | Value |
 
 |  Total Sales | 88.37K |
 |  Total Profit | 15.44K |
@@ -21,31 +18,31 @@ This **Sales Analytics Dashboard** is an interactive business intelligence repor
 
 ##  Dashboard Sections
 
-### 1.  Count of Customer Name by Segment
+## 1.  Count of Customer Name by Segment
 A bar chart breaking down customers into three segments:
 - **Consumer** — 140 customers (largest segment)
 - **Corporate** — 99 customers
 - **Home Office** — 48 customers
 
-### 2.  Count of Customer Name by Region
+## 2.  Count of Customer Name by Region
 A horizontal bar chart showing the top customers by region. **Seth Vernon** leads with 14 orders, followed by Dan Reichen, Stefania Perr., and others.
 
-### 3.  Count of Customer Name by Payment Mode
+## 3.  Count of Customer Name by Payment Mode
 A donut chart showing payment method distribution:
 - **Online** — 120 (41.81%)
 - **COD (Cash on Delivery)** — 115 (40.07%)
 - **Cards** — 52 (18.12%)
 
-### 4.  Count of Order Date by Category
+## 4.  Count of Order Date by Category
 A line/area chart showing order volume by product category:
 - **Office Supplies** — 165 orders
 - **Furniture** — 70 orders
 - **Technology** — 52 orders
 
-### 5.  State and Sales (Map Visual)
+## 5.  State and Sales (Map Visual)
 An interactive US map displaying sales distribution across states, with a color-coded legend ranging from **73.78** to **88.024**.
 
-### 6.  City-wise Profit Table
+## 6.  City-wise Profit Table
 A detailed table showing **City**, **Payment Mode**, and **Sum of Profit**, with a grand total profit of **$15,438.95**.
 
 
