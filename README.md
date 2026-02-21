@@ -5,7 +5,7 @@
 This **Sales Analytics Dashboard** is an interactive business intelligence report built to provide a comprehensive view of sales performance across categories, regions, customer segments, and payment modes. It enables data-driven decision-making by visualizing key metrics in a clean and intuitive layout.
 
 
-![Dashboard Preview](Sales_Analytics_Dashboard.png)
+![Dashboard Preview](sales-dashboard.png)
 
 
 ## 🚀 Key Metrics
