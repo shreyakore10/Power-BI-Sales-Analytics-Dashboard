@@ -1,23 +1,29 @@
-📊 Sales Analytics Dashboard
+📊 Power BI Sales Analytics Dashboard
+📌 Project Overview
 
-This Power BI Sales Analytics Dashboard provides a comprehensive overview of sales performance, profit analysis, customer insights, and regional trends.
+This Power BI dashboard analyzes sales performance, profitability, customer segmentation, and regional trends to support data-driven decision-making.
 
-The dashboard enables interactive analysis across multiple dimensions including Category, Region, State, Segment, and Payment Mode. It helps identify top-performing areas, customer distribution, return trends, and profitability metrics to support data-driven business decisions.
+![Sales Dashboard](sales-dashboard.png)
 
-## 📸 Dashboard Preview
+📈 Key Metrics
 
-![Sales Dashboard](Sales Analytics Dashboard.png)
+Total Sales: 88.37K
+Total Profit: 15.44K
+Total Quantity Sold: 1130
+Total Customers: 287
+Total Returns: 287
 
-🔹 Key Highlights:
+📊 Dashboard Features
 
-✔️ Total Sales, Profit, Quantity & Customers Overview
+Category-wise Sales Analysis
+Segment-wise Customer Distribution
+Region & State Performance Mapping
+Payment Mode Analysis
+Profit Breakdown
 
-✔️ Sales & Profit Analysis by Category
+🛠 Tools Used
 
-✔️ Customer Segmentation Insights
-
-✔️ Region and State-wise Sales Performance
-
-✔️ Payment Mode Distribution
-
-✔️ Return Analysis
+Power BI
+DAX
+Data Modeling
+Excel (Data Source)
