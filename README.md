@@ -9,12 +9,11 @@ This Sales Analytics Dashboard is an interactive business intelligence report bu
 
 ##  Key Metrics
 
-|  Total Sales | 88.37K |
-|  Total Profit | 15.44K |
-|  Total Quantity | 1,130 |
-|  Total Customers | 287 |
-|  Total Returns | 287 |
-
+- Total Sales: 88.37K
+- Total Profit: 15.44K
+- Total Quantity: 1,130
+- Total Customers: 287
+- Total Returns: 287
 
 ##  Dashboard Sections
 
