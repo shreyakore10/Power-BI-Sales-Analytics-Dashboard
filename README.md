@@ -7,7 +7,7 @@ This Sales Analytics Dashboard is an interactive business intelligence report bu
 ![Dashboard Preview](sales-dashboard.png)
 
 
-##  Key Metrics
+# 📊  Key Metrics
 
 - Total Sales: 88.37K
 - Total Profit: 15.44K
@@ -59,6 +59,7 @@ The dashboard includes interactive slicers for dynamic filtering:
 - **Data Type:** Retail Sales Data
 - **Visuals:** Bar Charts, Donut Chart, Line Chart, Map Visual, KPI Cards, Data Table
 
+- --
 
 ##  Insights & Takeaways
 
